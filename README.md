@@ -2,7 +2,7 @@
 
 ^^^ignore this message and click raw view. You will be able to find my blender file^^^
 
-# These are my blender projects!
+# This is my first blender project!
 
 ### Treasure chest
 ![treasure chest sample rendered photo](treasure_chest/sample.png)
