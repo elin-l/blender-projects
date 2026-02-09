@@ -6,6 +6,4 @@ This file is for Documentation for the project in this directory.
 https://youtu.be/B0J27sf9N1Y?si=CBsVtt9MuY-BfvEi
 
 ### Sample image
-![sample](cherriessample.png)
-![sample](darkcherries.png)
-
+![sample](Donuts.sample.png)
